@@ -9,3 +9,6 @@
 * [Adding 0's at both sides](https://leetcode.com/problems/pascals-triangle/solutions/6209724/video-adding-0-at-the-both-sides-python-javascript-java-c/)
 * [Using combinatorics nCr](https://leetcode.com/problems/pascals-triangle/solutions/6921819/java-0-ms-pascal-s-triangle-using-combinatorics-ncr/)
 * [DP table like](https://leetcode.com/problems/pascals-triangle/solutions/6914357/simple-dp-with-memoization-beats-100/)
+
+3. [next-permutation](https://leetcode.com/problems/next-permutation)
+* [easy](https://leetcode.com/problems/next-permutation/solutions/6750829/video-don-t-worry-if-you-can-t-solve-this-question/)
