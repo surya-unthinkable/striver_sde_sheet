@@ -12,3 +12,7 @@
 
 3. [next-permutation](https://leetcode.com/problems/next-permutation)
 * [easy](https://leetcode.com/problems/next-permutation/solutions/6750829/video-don-t-worry-if-you-can-t-solve-this-question/)
+
+3. [next-permutation](https://leetcode.com/problems/maximum-subarray)
+* [approaches](https://leetcode.com/problems/maximum-subarray/solutions/1595195/c-python-7-simple-solutions-w-explanation-brute-force-dp-kadane-divide-conquer/)
+* [kadane algorithm](https://leetcode.com/problems/maximum-subarray/solutions/1595097/java-kadane-s-algorithm-explanation-using-image/)
