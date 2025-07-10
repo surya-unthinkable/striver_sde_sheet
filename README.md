@@ -16,3 +16,7 @@
 3. [next-permutation](https://leetcode.com/problems/maximum-subarray)
 * [approaches](https://leetcode.com/problems/maximum-subarray/solutions/1595195/c-python-7-simple-solutions-w-explanation-brute-force-dp-kadane-divide-conquer/)
 * [kadane algorithm](https://leetcode.com/problems/maximum-subarray/solutions/1595097/java-kadane-s-algorithm-explanation-using-image/)
+
+3. [sort-colors](https://leetcode.com/problems/sort-colors)
+* [dutch national flag algorithm](https://leetcode.com/problems/sort-colors/solutions/6751648/dutch-national-flag-algorithm-with-images-example-walkthrough-c-python-java/)
+* [approaches](https://leetcode.com/problems/sort-colors/solutions/6843641/video-2-solutions-with-frequency-or-3-pointers/)
