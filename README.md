@@ -13,10 +13,13 @@
 3. [next-permutation](https://leetcode.com/problems/next-permutation)
 * [easy](https://leetcode.com/problems/next-permutation/solutions/6750829/video-don-t-worry-if-you-can-t-solve-this-question/)
 
-3. [next-permutation](https://leetcode.com/problems/maximum-subarray)
+4. [next-permutation](https://leetcode.com/problems/maximum-subarray)
 * [approaches](https://leetcode.com/problems/maximum-subarray/solutions/1595195/c-python-7-simple-solutions-w-explanation-brute-force-dp-kadane-divide-conquer/)
 * [kadane algorithm](https://leetcode.com/problems/maximum-subarray/solutions/1595097/java-kadane-s-algorithm-explanation-using-image/)
 
-3. [sort-colors](https://leetcode.com/problems/sort-colors)
+5. [sort-colors](https://leetcode.com/problems/sort-colors)
 * [dutch national flag algorithm](https://leetcode.com/problems/sort-colors/solutions/6751648/dutch-national-flag-algorithm-with-images-example-walkthrough-c-python-java/)
 * [approaches](https://leetcode.com/problems/sort-colors/solutions/6843641/video-2-solutions-with-frequency-or-3-pointers/)
+
+6. [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+* [simple](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5501275/video-keep-minimum-price-solution/)
