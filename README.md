@@ -23,3 +23,6 @@
 
 6. [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 * [simple](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5501275/video-keep-minimum-price-solution/)
+
+7. [rotate-image](https://leetcode.com/problems/rotate-image)
+* [transpose & reverse](https://leetcode.com/problems/rotate-image/solutions/6146973/vertical-reversal-transpose/)
