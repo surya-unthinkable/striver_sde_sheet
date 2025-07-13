@@ -26,3 +26,7 @@
 
 7. [rotate-image](https://leetcode.com/problems/rotate-image)
 * [transpose & reverse](https://leetcode.com/problems/rotate-image/solutions/6146973/vertical-reversal-transpose/)
+
+8. [merge-intervals](https://leetcode.com/problems/merge-intervals)
+* [editorial](https://leetcode.com/problems/merge-intervals/editorial/)
+* [compare start & end](https://leetcode.com/problems/merge-intervals/solutions/5513226/video-sorting-solution/)
