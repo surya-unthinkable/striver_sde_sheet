@@ -30,3 +30,6 @@
 8. [merge-intervals](https://leetcode.com/problems/merge-intervals)
 * [editorial](https://leetcode.com/problems/merge-intervals/editorial/)
 * [compare start & end](https://leetcode.com/problems/merge-intervals/solutions/5513226/video-sorting-solution/)
+
+9. [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)
+* [begin from end](https://leetcode.com/problems/merge-sorted-array/solutions/5714203/video-simple-solution-coding-exercise/)
