@@ -37,3 +37,7 @@
 10. [find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)
 * [9 solutions](https://leetcode.com/problems/find-the-duplicate-number/solutions/1892921/9-approaches-count-hash-in-place-marked-sort-binary-search-bit-mask-fast-slow-pointers/)
 * [Floyd's torotise & hare algo](https://leetcode.com/problems/find-the-duplicate-number/solutions/6097957/video-floyd-s-tortoise-and-hare-algorithm-and-prove-it-with-simple-calculation/)
+
+11. find-the-repeating-and-missing-numbers
+* [take you forward](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)
+* [youtube](https://www.youtube.com/watch?v=2D0D8HE6uak)
