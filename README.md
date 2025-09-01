@@ -41,3 +41,7 @@
 11. find-the-repeating-and-missing-numbers
 * [take you forward](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)
 * [youtube](https://www.youtube.com/watch?v=2D0D8HE6uak)
+
+12. count-inversions-in-an-array
+* [take you forward](https://takeuforward.org/data-structure/count-inversions-in-an-array/)
+* [youtube](https://www.youtube.com/watch?v=AseUmwVNaoY)
